@@ -46,9 +46,12 @@ ITSM destek taleplerini veri analitiği yöntemleriyle inceleyerek tekrar eden p
 
 Power BI dashboard'undan öne çıkan panolar:
 
-![Genel Operasyonel Performans Panosu](image2.png)
-![Kategori Bazlı Problem Endeksi ve Pareto Analizi](image3.png)
-![Lokasyon Bazlı Proaktiflik Oranı ve Medyan Çözüm Süresi](image5.png)
+- Şekil 1. Genel Operasyonel Performans Panosu
+- Şekil 2. Kategori Bazlı Problem Endeksi ve Pareto Analizi
+- Şekil 3. Alt Kategori Bazlı Problem Endeksi (İlk 15)
+- Şekil 4. Lokasyon Bazlı Proaktiflik Oranı ve Medyan Çözüm Süresi
+- Şekil 5. Lokasyon Bazlı Üye Başına Ticket Yoğunluğu
+- Şekil 6. Lokasyon Tipi Bazlı Performans Analizi
 
 ## Kullanılan Araçlar
 
